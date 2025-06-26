@@ -80,8 +80,8 @@ Grafana is used to visualize the data and analytics stored in the database.  The
 
 This project was developed by:
 
-  * Francesco Nocella
-  * Noemi Cherchi
+  * [**Francesco Nocella**](https://github.com/franocella)
+  * [**Noemi Cherchi**](https://github.com/noemichem)
 
 ## License
 
