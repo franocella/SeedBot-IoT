@@ -3,11 +3,11 @@
 SeedBot is a project developed at the University of Pisa for the Internet of Things course. It is an automated agricultural sowing system that utilizes a wireless sensor network to monitor soil conditions and control a seed distribution mechanism, aiming to improve efficiency and reduce manual labor. 
 ## Table of Contents
 
-  - [Project Overview](project-overview)
-  - [System Architecture](system-architecture)
-  - [Machine Learning Model](machine-learning-model)
-  - [Hardware and Software Requirements](hardware-and-software-requirements)
-  - [License](license)
+  - [Project Overview](#project-overview)
+  - [System Architecture](#system-architecture)
+  - [Machine Learning Model](#machine-learning-model)
+  - [Hardware and Software Requirements](#hardware-and-software-requirements)
+  - [License](#license)
 
 ## Project Overview
 
